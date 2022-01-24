@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shaquilleOatmea1
-- 👀 I’m interested in Ur mom
-- 🌱 I’m currently learning about your mom
-- 💞️ I’m looking to collaborate with your mom
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning about Python
 
 
 <!---
